@@ -12,7 +12,7 @@ class Discount extends Model
     protected $table = 'discount';
 
 
-    // public function products(){
-    //     return $this->hasMany(Products::class, 'inventory_id');
-    // }
+    public function products(){
+        return $this->hasMany(Products::class, 'inventory_id');
+    }
 }
