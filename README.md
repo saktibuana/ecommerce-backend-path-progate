@@ -1,6 +1,3 @@
-# JekyllSimpleCart
-### (jekyllcart 2.0)
+#### Online store ini dibangun dengan niat memang mirip tokopedia 
 
-#### Jekyll Template OnLine Shop mirip tokopedia di bangun dengan simpleCart(js), Mudah digunakan, dengan hosting github page gratis 100% 
-
-[<h2>DEMO</h2>](https://jekyllsimplecart.pages.dev)
+Sebagai *study case* bagi path backend progate path.
