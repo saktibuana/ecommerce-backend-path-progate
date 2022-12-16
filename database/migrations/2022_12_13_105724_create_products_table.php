@@ -18,11 +18,13 @@ return new class extends Migration
             $table->string('name');
             $table->string('desc');
             $table->string('sku');
-            $table->float('price');
-            $table->timestamps();
+            $table->decimal('price', 12,2);
+            $table->foreignId('image_id')->constrained('images');
             $table->foreignId('category_id')->constrained('product_category');
             $table->foreignId('inventory_id')->constrained('product_inventory');
             $table->foreignId('discount_id')->constrained('discount');
+            $table->timestamps();
+
         });
     }
 

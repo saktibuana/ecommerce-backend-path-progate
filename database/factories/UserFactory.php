@@ -29,6 +29,10 @@ class UserFactory extends Factory
             'email' => $generatedemail,
             // 'password' => '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', // password
             'password' => Hash::make('thepassword'),
+            'age' => random_int(13,70),
+            'phone' => fake()->numerify('628##########'),
+            'gender' => random_int(0,1),
+            'role_id' => random_int(1,2),
             'created_at' => now(),
             'updated_at' => now(),
         ];

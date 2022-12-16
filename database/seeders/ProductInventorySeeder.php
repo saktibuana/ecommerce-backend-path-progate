@@ -28,6 +28,6 @@ class ProductInventorySeeder extends Seeder
             'updated_at' => now(),
         ]);
 
-        ProductInventory::factory()->count(50)->create();
+        ProductInventory::factory()->count(100)->create();
     }
 }

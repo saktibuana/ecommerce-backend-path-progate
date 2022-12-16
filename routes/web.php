@@ -19,4 +19,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/profile/{id}', [UserController::class, 'show']);
+Route::get('dashboard', function () {
+    return view('dashboard');
+});
+
+// Route::get('/profile/{id}', [UserController::class, 'show']);

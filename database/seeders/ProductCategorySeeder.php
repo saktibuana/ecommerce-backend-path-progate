@@ -22,12 +22,14 @@ class ProductCategorySeeder extends Seeder
         DB::table('product_category')->truncate();
         Schema::enableForeignKeyConstraints();
 
+        $cat_name = "Kategori ".random_int(1,1000);
         DB::table('product_category')->insert([
-            'quantity' => random_int(100,1000),
+            'name' => $cat_name,
+            'desc' => "Keterangan ".$cat_name,
             'created_at' => now(),
             'updated_at' => now(),
         ]);
 
-        ProductInventory::factory()->count(50)->create();
+        ProductCategory::factory()->count(100)->create();
     }
 }

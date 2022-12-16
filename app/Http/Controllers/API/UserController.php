@@ -3,10 +3,10 @@
 namespace App\Http\Controllers\API;
 
 use App\Http\Controllers\Controller;
-use App\Models\Products;
+use App\Models\User;
 use Illuminate\Http\Request;
 
-class ProductsController extends Controller
+class UserController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -15,8 +15,7 @@ class ProductsController extends Controller
      */
     public function index()
     {
-        // $data = Products::all();
-        $data=Products::with('category', 'discount', 'inventory')->get();
+        $data=User::with('role')->get();
         return response()->json($data, 200);
     }
 
@@ -34,10 +33,10 @@ class ProductsController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\Products  $products
+     * @param  \App\Models\User  $user
      * @return \Illuminate\Http\Response
      */
-    public function show(Products $products)
+    public function show(User $user)
     {
         //
     }
@@ -46,10 +45,10 @@ class ProductsController extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Models\Products  $products
+     * @param  \App\Models\User  $user
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Products $products)
+    public function update(Request $request, User $user)
     {
         //
     }
@@ -57,10 +56,10 @@ class ProductsController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\Products  $products
+     * @param  \App\Models\User  $user
      * @return \Illuminate\Http\Response
      */
-    public function destroy(Products $products)
+    public function destroy(User $user)
     {
         //
     }

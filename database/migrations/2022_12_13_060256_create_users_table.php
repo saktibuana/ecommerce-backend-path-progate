@@ -19,6 +19,10 @@ return new class extends Migration
             $table->string('username')->unique();
             $table->string('password');
             $table->string('email')->unique();
+            $table->integer('age');
+            $table->string('phone', 15);
+            $table->tinyInteger('gender');
+            $table->foreignId('role_id')->constrained('roles');
             $table->timestamps();
         });
     }

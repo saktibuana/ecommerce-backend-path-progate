@@ -5,6 +5,7 @@ namespace Database\Seeders;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Schema;
 use Illuminate\Support\Str;
 use App\Models\Discount;
 
@@ -19,8 +20,10 @@ class DiscountSeeder extends Seeder
     public function run()
     {
 
-        //Remove all records
-        // Discount::truncate();
+        //TRUNCATE TABLE
+        Schema::disableForeignKeyConstraints();
+        DB::table('discount')->truncate();
+        Schema::enableForeignKeyConstraints();
 
         //Refactor just 1(one) record
         // DB::table('discount')->insert([

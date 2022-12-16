@@ -13,6 +13,6 @@ class Discount extends Model
 
 
     public function products(){
-        return $this->hasMany(Products::class, 'inventory_id');
+        return $this->hasMany(Product::class, 'discount_id');
     }
 }
