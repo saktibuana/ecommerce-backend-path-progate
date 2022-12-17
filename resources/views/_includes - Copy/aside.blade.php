@@ -8,7 +8,7 @@ Catatan Toko
 </div>
 <div class="widget-content">
 <ul style="color:crimson;">
-    {{site.note}}
+    site note
 </ul>
 </div>
 </div><div class="widget Label" data-version="2" id="Label2">

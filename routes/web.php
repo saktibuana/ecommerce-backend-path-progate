@@ -19,8 +19,15 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('dashboard', function () {
-    return view('dashboard');
-});
+// Route::get('dashboard', function () {
+//     return view('dashboard');
+// });
 
+// Dashboard
+Route::get('/dashboard', function () {
+    $page = ['site' => 'web'];
+    return view('pages.dash', ['type_menu' => 'dashboard', 'page' => $page ]);
+    // return view('pages.default', ['type_menu' => 'dashboard']);
+
+});
 // Route::get('/profile/{id}', [UserController::class, 'show']);
