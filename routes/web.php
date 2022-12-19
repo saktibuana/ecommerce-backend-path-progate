@@ -22,12 +22,12 @@ Route::get('/dashboard', function () {
 });
 
 Route::get('/toc', function () {
-    return view('terms-conditions');
+    return view('pages.terms-policy');
 });
 
 
 Route::get('/privacy', function () {
-    return view('privacy-policy');
+    return view('[pages.privacy-policy');
 });
 
 
@@ -44,8 +44,8 @@ Route::get('/login', function () {
     return view('pages.login');
 });
 
-Route::get('/detail', function () {
-    return view('detail');
+Route::get('/product/{id}', function ($id) {
+    return view('pages.product-detail');
 });
 
 Route::get('/contact', function () {

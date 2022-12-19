@@ -63,7 +63,7 @@
 											</li>
 											<li>
 												<i class="fa fa-envelope" aria-hidden="true"></i>
-												<p class="contact-txt">info@warung.com</p>
+												<p class="contact-txt">info@ken.store</p>
 											</li>											
 										</ul>
 									</div>
@@ -74,7 +74,7 @@
 						<div class="col-lg-4 col-sm-4 col-md-4 col-xs-12">
 
 							<div class="wrap-footer-item">
-								<h3 class="item-header">Hot Line</h3>
+								<h3 class="item-header">Jalur Siaga</h3>
 								<div class="item-content">
 									<div class="wrap-hotline-footer">
 										<span class="desc">Hubungi Kami, Bebas Biaya</span>
@@ -185,7 +185,7 @@
 			<div class="coppy-right-box">
 				<div class="container">
 					<div class="coppy-right-item item-left">
-						<p class="coppy-right-text">Copyright © 2022 Nama Toko. All rights reserved</p>
+						<p class="coppy-right-text">Copyright © 2022 Ken Store. Semua Barang Ada Idzin Dari Produsen</p>
 					</div>
 					<div class="coppy-right-item item-right">
 						<div class="wrap-nav horizontal-nav">

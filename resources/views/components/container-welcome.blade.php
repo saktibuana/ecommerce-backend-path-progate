@@ -8,8 +8,8 @@
 						<div class="slide-info slide-1">
 							<h2 class="f-title">Kid Smart <b>Watches</b></h2>
 							<span class="subtitle">Compra todos tus productos Smart por internet.</span>
-							<p class="sale-info">Only price: <span class="price">$59.99</span></p>
-							<a href="#" class="btn-link">Shop Now</a>
+							<p class="sale-info">Only price: <span class="price">IDR 59.99</span></p>
+							<a href="#" class="btn-link">Beli Sekarang</a>
 						</div>
 					</div>
 					<div class="item-slide">
@@ -27,8 +27,8 @@
 						<div class="slide-info slide-3">
 							<h2 class="f-title">Great Range of <b>Exclusive Furniture Packages</b></h2>
 							<span class="f-subtitle">Exclusive Furniture Packages to Suit every need.</span>
-							<p class="sale-info">Stating at: <b class="price">$225.00</b></p>
-							<a href="#" class="btn-link">Shop Now</a>
+							<p class="sale-info">Stating at: <b class="price">IDR 225000,-</b></p>
+							<a href="#" class="btn-link">Beli Sekarang</a>
 						</div>
 					</div>
 				</div>
@@ -50,7 +50,7 @@
 
 			<!--On Sale-->
 			<div class="wrap-show-advance-info-box style-1 has-countdown">
-				<h3 class="title-box">On Sale</h3>
+				<h3 class="title-box">Sedang Dijual</h3>
 				<div class="wrap-countdown mercado-countdown" data-expire="2020/12/12 12:34:56"></div>
 				<div class="wrap-products slide-carousel owl-carousel style-nav-1 equal-container " data-items="5" data-loop="false" data-nav="true" data-dots="false" data-responsive='{"0":{"items":"1"},"480":{"items":"2"},"768":{"items":"3"},"992":{"items":"4"},"1200":{"items":"5"}}'>
 
@@ -68,7 +68,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-							<div class="wrap-price"><span class="product-price">$250.00</span></div>
+							<div class="wrap-price"><span class="product-price">IDR 250000,-</span></div>
 						</div>
 					</div>
 
@@ -86,7 +86,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-							<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+							<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 						</div>
 					</div>
 
@@ -104,7 +104,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-							<div class="wrap-price"><span class="product-price">$250.00</span></div>
+							<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 						</div>
 					</div>
 
@@ -122,7 +122,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-							<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+							<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 						</div>
 					</div>
 
@@ -140,7 +140,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-							<div class="wrap-price"><span class="product-price">$250.00</span></div>
+							<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 						</div>
 					</div>
 
@@ -158,7 +158,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-							<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+							<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 						</div>
 					</div>
 
@@ -176,7 +176,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-							<div class="wrap-price"><span class="product-price">$250.00</span></div>
+							<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 						</div>
 					</div>
 
@@ -194,7 +194,7 @@
 						</div>
 						<div class="product-info">
 							<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-							<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+							<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 						</div>
 					</div>
 
@@ -203,7 +203,7 @@
 
 			<!--Latest Products-->
 			<div class="wrap-show-advance-info-box style-1">
-				<h3 class="title-box">Latest Products</h3>
+				<h3 class="title-box">Produk Terbaru</h3>
 				<div class="wrap-top-banner">
 					<a href="#" class="link-banner banner-effect-2">
 						<figure><img src="assets/images/digital-electronic-banner.jpg" width="1170" height="240" alt=""></figure>
@@ -229,7 +229,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -247,7 +247,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -266,7 +266,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -284,7 +284,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -299,7 +299,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -317,7 +317,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -335,7 +335,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -353,7 +353,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -366,7 +366,7 @@
 
 			<!--Product Categories-->
 			<div class="wrap-show-advance-info-box style-1">
-				<h3 class="title-box">Product Categories</h3>
+				<h3 class="title-box">Kategori Produk</h3>
 				<div class="wrap-top-banner">
 					<a href="#" class="link-banner banner-effect-2">
 						<figure><img src="assets/images/fashion-accesories-banner.jpg" width="1170" height="240" alt=""></figure>
@@ -399,7 +399,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Lois Caron LCS-4027 Analog Watch - For Men</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -417,7 +417,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Business Men Leather Laptop Tote Bags Man Crossbody </span></a>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -432,7 +432,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Alberto Torresi Borgo Yellow Shoes - Alberto Torresi</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -451,7 +451,7 @@
 									</div>
 									<div class="product-info">
 										<a href="#" class="product-name"><span>Alberto Torresi Borgo Yellow Shoes - Alberto Torresi</span></a>
-										<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+										<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 									</div>
 								</div>
 
@@ -469,7 +469,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -487,7 +487,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -505,7 +505,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -523,7 +523,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -547,7 +547,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -565,7 +565,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -583,7 +583,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -601,7 +601,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -619,7 +619,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -637,7 +637,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -655,7 +655,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -673,7 +673,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -697,7 +697,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -716,7 +716,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -734,7 +734,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -753,7 +753,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -771,7 +771,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -790,7 +790,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -808,7 +808,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -827,7 +827,7 @@
 										</div>
 										<div class="product-info">
 											<a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -855,7 +855,7 @@
 												<i class="fa fa-star" aria-hidden="true"></i>
 												<i class="fa fa-star" aria-hidden="true"></i>
 											</div>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -879,7 +879,7 @@
 												<i class="fa fa-star" aria-hidden="true"></i>
 												<i class="fa fa-star" aria-hidden="true"></i>
 											</div>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -903,7 +903,7 @@
 												<i class="fa fa-star" aria-hidden="true"></i>
 												<i class="fa fa-star" aria-hidden="true"></i>
 											</div>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -927,7 +927,7 @@
 												<i class="fa fa-star" aria-hidden="true"></i>
 												<i class="fa fa-star" aria-hidden="true"></i>
 											</div>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -949,7 +949,7 @@
 												<i class="fa fa-star" aria-hidden="true"></i>
 												<i class="fa fa-star" aria-hidden="true"></i>
 											</div>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -973,7 +973,7 @@
 												<i class="fa fa-star" aria-hidden="true"></i>
 												<i class="fa fa-star" aria-hidden="true"></i>
 											</div>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 
@@ -997,7 +997,7 @@
 												<i class="fa fa-star" aria-hidden="true"></i>
 												<i class="fa fa-star" aria-hidden="true"></i>
 											</div>
-											<div class="wrap-price"><span class="product-price">$250.00</span></div>
+											<div class="wrap-price"><span class="product-price">IDR 2500000,-</span></div>
 										</div>
 									</div>
 
@@ -1022,7 +1022,7 @@
 												<i class="fa fa-star" aria-hidden="true"></i>
 												<i class="fa fa-star" aria-hidden="true"></i>
 											</div>
-											<div class="wrap-price"><ins><p class="product-price">$168.00</p></ins> <del><p class="product-price">$250.00</p></del></div>
+											<div class="wrap-price"><ins><p class="product-price">IDR 168000,-</p></ins> <del><p class="product-price">IDR 2500000,-</p></del></div>
 										</div>
 									</div>
 

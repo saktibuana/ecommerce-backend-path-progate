@@ -41,7 +41,7 @@
 						<div class="wrap-search center-section">
 							<div class="wrap-search-form">
 								<form action="#" id="form-search-top" name="form-search-top">
-									<input type="text" name="search" value="" placeholder="Search here...">
+									<input type="text" name="search" value="" placeholder="Cari di sini ...">
 									<button form="form-search-top" type="button"><i class="fa fa-search" aria-hidden="true"></i></button>
 									<div class="wrap-list-cate">
 										<input type="hidden" name="product-cate" value="0" id="product-cate">
@@ -75,7 +75,7 @@
 								<a href="#" class="link-direction">
 									<i class="fa fa-heart" aria-hidden="true"></i>
 									<div class="left-info">
-										<span class="index">0 item</span>
+										<span class="index">0 barang</span>
 										<span class="title">Keinginan</span>
 									</div>
 								</a>
@@ -106,10 +106,10 @@
 						<div class="container">
 							<ul class="nav menu-nav clone-main-menu" id="mercado_haead_menu" data-menuname="Sale Info" >
 								<li class="menu-item"><a href="#" class="link-term">Promo Minggu Ini</a><span class="nav-label hot-label">hot</span></li>
-								<li class="menu-item"><a href="#" class="link-term">Barang Paling Dicari</a><span class="nav-label hot-label">hot</span></li>
-								<li class="menu-item"><a href="#" class="link-term">Barang Baru</a><span class="nav-label hot-label">hot</span></li>
-								<li class="menu-item"><a href="#" class="link-term">Paling Banyak Terjual</a><span class="nav-label hot-label">hot</span></li>
-								<li class="menu-item"><a href="#" class="link-term">Paling Banyak Diulas</a><span class="nav-label hot-label">hot</span></li>
+								<li class="menu-item"><a href="#" class="link-term">Paling Dicari</a><span class="nav-label hot-label">hot</span></li>
+								<li class="menu-item"><a href="#" class="link-term">Terbaru</a><span class="nav-label hot-label">hot</span></li>
+								<li class="menu-item"><a href="#" class="link-term">Terbanyak Dijual</a><span class="nav-label hot-label">hot</span></li>
+								<li class="menu-item"><a href="#" class="link-term">Terbanyak Diulas</a><span class="nav-label hot-label">hot</span></li>
 							</ul>
 						</div>
 					</div>

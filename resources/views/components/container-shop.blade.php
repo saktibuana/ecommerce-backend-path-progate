@@ -1,8 +1,8 @@
 <div class="container">
     <div class="wrap-breadcrumb">
         <ul>
-            <li class="item-link"><a href="#" class="link">home</a></li>
-            <li class="item-link"><span>Digital & Electronics</span></li>
+            <li class="item-link"><a href="#" class="link">Beranda</a></li>
+            <li class="item-link"><span>Digital & Elektronik</span></li>
         </ul>
     </div>
 </div>
@@ -19,30 +19,30 @@
 
             <div class="wrap-shop-control">
 
-                <h1 class="shop-title">Digital & Electronics</h1>
+                <h1 class="shop-title">Digital & Elektronik</h1>
 
                 <div class="wrap-right">
 
                     <div class="sort-item orderby ">
                         <select name="orderby" class="use-chosen" >
                             <option value="menu_order" selected="selected">Default sorting</option>
-                            <option value="popularity">Sort by popularity</option>
-                            <option value="rating">Sort by average rating</option>
-                            <option value="date">Sort by newness</option>
-                            <option value="price">Sort by price: low to high</option>
-                            <option value="price-desc">Sort by price: high to low</option>
+                            <option value="popularity">Berdasarkan popularitas</option>
+                            <option value="rating">Berdasarkan rata-rata peringkat</option>
+                            <option value="date">Terbaru</option>
+                            <option value="price">Harga: Murah -> Mahal</option>
+                            <option value="price-desc">Harga: Mahal -> Murah</option>
                         </select>
                     </div>
 
                     <div class="sort-item product-per-page">
                         <select name="post-per-page" class="use-chosen" >
-                            <option value="12" selected="selected">12 per page</option>
-                            <option value="16">16 per page</option>
-                            <option value="18">18 per page</option>
-                            <option value="21">21 per page</option>
-                            <option value="24">24 per page</option>
-                            <option value="30">30 per page</option>
-                            <option value="32">32 per page</option>
+                            <option value="12" selected="selected">12 per halaman</option>
+                            <option value="16">16 per halaman</option>
+                            <option value="18">18 per halaman</option>
+                            <option value="21">21 per halaman</option>
+                            <option value="24">24 per halaman</option>
+                            <option value="30">30 per halaman</option>
+                            <option value="32">32 per halaman</option>
                         </select>
                     </div>
 
@@ -68,8 +68,8 @@
                             </div>
                             <div class="product-info">
                                 <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-                                <div class="wrap-price"><span class="product-price">$250.00</span></div>
-                                <a href="#" class="btn add-to-cart">Add To Cart</a>
+                                <div class="wrap-price"><span class="product-price">IDR 250000,-</span></div>
+                                <a href="#" class="btn add-to-cart">Tambahkan ke Keranjang</a>
                             </div>
                         </div>
                     </li>
@@ -82,8 +82,8 @@
                             </div>
                             <div class="product-info">
                                 <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-                                <div class="wrap-price"><span class="product-price">$250.00</span></div>
-                                <a href="#" class="btn add-to-cart">Add To Cart</a>
+                                <div class="wrap-price"><span class="product-price">IDR 250000,-</span></div>
+                                <a href="#" class="btn add-to-cart">Tambahkan ke Keranjang</a>
                             </div>
                         </div>
                     </li>
@@ -96,8 +96,8 @@
                             </div>
                             <div class="product-info">
                                 <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-                                <div class="wrap-price"><span class="product-price">$250.00</span></div>
-                                <a href="#" class="btn add-to-cart">Add To Cart</a>
+                                <div class="wrap-price"><span class="product-price">IDR 250000,-</span></div>
+                                <a href="#" class="btn add-to-cart">Tambahkan ke Keranjang</a>
                             </div>
                         </div>
                     </li>
@@ -110,8 +110,8 @@
                             </div>
                             <div class="product-info">
                                 <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-                                <div class="wrap-price"><span class="product-price">$250.00</span></div>
-                                <a href="#" class="btn add-to-cart">Add To Cart</a>
+                                <div class="wrap-price"><span class="product-price">IDR 250000,-</span></div>
+                                <a href="#" class="btn add-to-cart">Tambahkan ke Keranjang</a>
                             </div>
                         </div>
                     </li>
@@ -124,8 +124,8 @@
                             </div>
                             <div class="product-info">
                                 <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-                                <div class="wrap-price"><span class="product-price">$250.00</span></div>
-                                <a href="#" class="btn add-to-cart">Add To Cart</a>
+                                <div class="wrap-price"><span class="product-price">IDR 250000,-</span></div>
+                                <a href="#" class="btn add-to-cart">Tambahkan ke Keranjang</a>
                             </div>
                         </div>
                     </li>
@@ -138,8 +138,8 @@
                             </div>
                             <div class="product-info">
                                 <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-                                <div class="wrap-price"><span class="product-price">$250.00</span></div>
-                                <a href="#" class="btn add-to-cart">Add To Cart</a>
+                                <div class="wrap-price"><span class="product-price">IDR 250000,-</span></div>
+                                <a href="#" class="btn add-to-cart">Tambahkan ke Keranjang</a>
                             </div>
                         </div>
                     </li>
@@ -152,8 +152,8 @@
                             </div>
                             <div class="product-info">
                                 <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-                                <div class="wrap-price"><span class="product-price">$250.00</span></div>
-                                <a href="#" class="btn add-to-cart">Add To Cart</a>
+                                <div class="wrap-price"><span class="product-price">IDR 250000,-</span></div>
+                                <a href="#" class="btn add-to-cart">Tambahkan ke Keranjang</a>
                             </div>
                         </div>
                     </li>
@@ -166,8 +166,8 @@
                             </div>
                             <div class="product-info">
                                 <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-                                <div class="wrap-price"><span class="product-price">$250.00</span></div>
-                                <a href="#" class="btn add-to-cart">Add To Cart</a>
+                                <div class="wrap-price"><span class="product-price">IDR 250000,-</span></div>
+                                <a href="#" class="btn add-to-cart">Tambahkan ke Keranjang</a>
                             </div>
                         </div>
                     </li>
@@ -180,8 +180,8 @@
                             </div>
                             <div class="product-info">
                                 <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-                                <div class="wrap-price"><span class="product-price">$250.00</span></div>
-                                <a href="#" class="btn add-to-cart">Add To Cart</a>
+                                <div class="wrap-price"><span class="product-price">IDR 250000,-</span></div>
+                                <a href="#" class="btn add-to-cart">Tambahkan ke Keranjang</a>
                             </div>
                         </div>
                     </li>
@@ -194,8 +194,8 @@
                             </div>
                             <div class="product-info">
                                 <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-                                <div class="wrap-price"><span class="product-price">$250.00</span></div>
-                                <a href="#" class="btn add-to-cart">Add To Cart</a>
+                                <div class="wrap-price"><span class="product-price">IDR 250000,-</span></div>
+                                <a href="#" class="btn add-to-cart">Tambahkan ke Keranjang</a>
                             </div>
                         </div>
                     </li>
@@ -208,8 +208,8 @@
                             </div>
                             <div class="product-info">
                                 <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-                                <div class="wrap-price"><span class="product-price">$250.00</span></div>
-                                <a href="#" class="btn add-to-cart">Add To Cart</a>
+                                <div class="wrap-price"><span class="product-price">IDR 250000,-</span></div>
+                                <a href="#" class="btn add-to-cart">Tambahkan ke Keranjang</a>
                             </div>
                         </div>
                     </li>
@@ -222,8 +222,8 @@
                             </div>
                             <div class="product-info">
                                 <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker [White]</span></a>
-                                <div class="wrap-price"><span class="product-price">$250.00</span></div>
-                                <a href="#" class="btn add-to-cart">Add To Cart</a>
+                                <div class="wrap-price"><span class="product-price">IDR 250000,-</span></div>
+                                <a href="#" class="btn add-to-cart">Tambahkan ke Keranjang</a>
                             </div>
                         </div>
                     </li>
@@ -237,15 +237,15 @@
                     <li><span class="page-number-item current" >1</span></li>
                     <li><a class="page-number-item" href="#" >2</a></li>
                     <li><a class="page-number-item" href="#" >3</a></li>
-                    <li><a class="page-number-item next-link" href="#" >Next</a></li>
+                    <li><a class="page-number-item next-link" href="#" >Selanjutnya</a></li>
                 </ul>
-                <p class="result-count">Showing 1-8 of 12 result</p>
+                <p class="result-count">Menampilkan hasil 1-8 dari 12 halaman</p>
             </div>
         </div><!--end main products area-->
 
         <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 sitebar">
             <div class="widget mercado-widget categories-widget">
-                <h2 class="widget-title">All Categories</h2>
+                <h2 class="widget-title">Semua Kategori</h2>
                 <div class="widget-content">
                     <ul class="list-category">
                         <li class="category-item has-child-cate">
@@ -267,29 +267,29 @@
                             </ul>
                         </li>
                         <li class="category-item has-child-cate">
-                            <a href="#" class="cate-link">Digital & Electronics</a>
+                            <a href="#" class="cate-link">Digital & Elektronik</a>
                             <span class="toggle-control">+</span>
                             <ul class="sub-cate">
-                                <li class="category-item"><a href="#" class="cate-link">Batteries (22)</a></li>
+                                <li class="category-item"><a href="#" class="cate-link">Batere (22)</a></li>
                                 <li class="category-item"><a href="#" class="cate-link">Headsets (16)</a></li>
-                                <li class="category-item"><a href="#" class="cate-link">Screen (28)</a></li>
+                                <li class="category-item"><a href="#" class="cate-link">Layar (28)</a></li>
                             </ul>
                         </li>
                         <li class="category-item">
-                            <a href="#" class="cate-link">Tools & Equipments</a>
+                            <a href="#" class="cate-link">Perlengkapan & Pertukangan</a>
                         </li>
                         <li class="category-item">
-                            <a href="#" class="cate-link">Kid’s Toys</a>
+                            <a href="#" class="cate-link">Mainan Anak</a>
                         </li>
                         <li class="category-item">
-                            <a href="#" class="cate-link">Organics & Spa</a>
+                            <a href="#" class="cate-link">Organik</a>
                         </li>
                     </ul>
                 </div>
             </div><!-- Categories widget-->
 
             <div class="widget mercado-widget filter-widget brand-widget">
-                <h2 class="widget-title">Brand</h2>
+                <h2 class="widget-title">Merek</h2>
                 <div class="widget-content">
                     <ul class="list-style vertical-list list-limited" data-show="6">
                         <li class="list-item"><a class="filter-link active" href="#">Fashion Clothings</a></li>
@@ -308,11 +308,11 @@
             </div><!-- brand widget-->
 
             <div class="widget mercado-widget filter-widget price-filter">
-                <h2 class="widget-title">Price</h2>
+                <h2 class="widget-title">Harga</h2>
                 <div class="widget-content">
                     <div id="slider-range"></div>
                     <p>
-                        <label for="amount">Price:</label>
+                        <label for="amount">Harga:</label>
                         <input type="text" id="amount" readonly>
                         <button class="filter-submit">Filter</button>
                     </p>
@@ -320,21 +320,21 @@
             </div><!-- Price-->
 
             <div class="widget mercado-widget filter-widget">
-                <h2 class="widget-title">Color</h2>
+                <h2 class="widget-title">Warna</h2>
                 <div class="widget-content">
                     <ul class="list-style vertical-list has-count-index">
-                        <li class="list-item"><a class="filter-link " href="#">Red <span>(217)</span></a></li>
-                        <li class="list-item"><a class="filter-link " href="#">Yellow <span>(179)</span></a></li>
-                        <li class="list-item"><a class="filter-link " href="#">Black <span>(79)</span></a></li>
-                        <li class="list-item"><a class="filter-link " href="#">Blue <span>(283)</span></a></li>
-                        <li class="list-item"><a class="filter-link " href="#">Grey <span>(116)</span></a></li>
-                        <li class="list-item"><a class="filter-link " href="#">Pink <span>(29)</span></a></li>
+                        <li class="list-item"><a class="filter-link " href="#">Merah <span>(217)</span></a></li>
+                        <li class="list-item"><a class="filter-link " href="#">Kuning <span>(179)</span></a></li>
+                        <li class="list-item"><a class="filter-link " href="#">Hitam <span>(79)</span></a></li>
+                        <li class="list-item"><a class="filter-link " href="#">Biru <span>(283)</span></a></li>
+                        <li class="list-item"><a class="filter-link " href="#">Abu <span>(116)</span></a></li>
+                        <li class="list-item"><a class="filter-link " href="#">Merah Muda <span>(29)</span></a></li>
                     </ul>
                 </div>
             </div><!-- Color -->
 
             <div class="widget mercado-widget filter-widget">
-                <h2 class="widget-title">Size</h2>
+                <h2 class="widget-title">Ukuran</h2>
                 <div class="widget-content">
                     <ul class="list-style inline-round ">
                         <li class="list-item"><a class="filter-link active" href="#">s</a></li>
@@ -349,7 +349,7 @@
             </div><!-- Size -->
 
             <div class="widget mercado-widget widget-product">
-                <h2 class="widget-title">Popular Products</h2>
+                <h2 class="widget-title">Produk Terpopuler</h2>
                 <div class="widget-content">
                     <ul class="products">
                         <li class="product-item">
@@ -361,7 +361,7 @@
                                 </div>
                                 <div class="product-info">
                                     <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker...</span></a>
-                                    <div class="wrap-price"><span class="product-price">$168.00</span></div>
+                                    <div class="wrap-price"><span class="product-price">IDR 168000,-</span></div>
                                 </div>
                             </div>
                         </li>
@@ -375,7 +375,7 @@
                                 </div>
                                 <div class="product-info">
                                     <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker...</span></a>
-                                    <div class="wrap-price"><span class="product-price">$168.00</span></div>
+                                    <div class="wrap-price"><span class="product-price">IDR 168000,-</span></div>
                                 </div>
                             </div>
                         </li>
@@ -389,7 +389,7 @@
                                 </div>
                                 <div class="product-info">
                                     <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker...</span></a>
-                                    <div class="wrap-price"><span class="product-price">$168.00</span></div>
+                                    <div class="wrap-price"><span class="product-price">IDR 168000,-</span></div>
                                 </div>
                             </div>
                         </li>
@@ -403,7 +403,7 @@
                                 </div>
                                 <div class="product-info">
                                     <a href="#" class="product-name"><span>Radiant-360 R6 Wireless Omnidirectional Speaker...</span></a>
-                                    <div class="wrap-price"><span class="product-price">$168.00</span></div>
+                                    <div class="wrap-price"><span class="product-price">IDR 168000,-</span></div>
                                 </div>
                             </div>
                         </li>
