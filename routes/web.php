@@ -32,7 +32,7 @@ Route::get('/privacy', function () {
 
 
 Route::get('/register', function () {
-    return view('register');
+    return view('pages.register');
 });
 
 
@@ -41,7 +41,7 @@ Route::get('/shop', function () {
 });
 
 Route::get('/login', function () {
-    return view('login');
+    return view('pages.login');
 });
 
 Route::get('/detail', function () {
@@ -49,11 +49,11 @@ Route::get('/detail', function () {
 });
 
 Route::get('/contact', function () {
-    return view('contact-us');
+    return view('pages.contact');
 });
 
 Route::get('/checkout', function () {
-    return view('checkout');
+    return view('pages.checkout');
 });
 
 Route::get('/cart', function () {

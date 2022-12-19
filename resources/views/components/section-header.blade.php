@@ -7,7 +7,7 @@
 						<div class="topbar-menu left-menu">
 							<ul>
 								<li class="menu-item" >
-									<a title="Hotline: (+62) 85720502217" href="#" ><span class="icon label-before fa fa-mobile"></span>Hotline: (+62) 857 20502217</a>
+									<a title="Jalur Siaga: (+62) 85720502217" href="#" ><span class="icon label-before fa fa-mobile"></span>Jalur Siaga: (+62) 857 20502217</a>
 								</li>
 							</ul>
 						</div>
@@ -45,7 +45,7 @@
 									<button form="form-search-top" type="button"><i class="fa fa-search" aria-hidden="true"></i></button>
 									<div class="wrap-list-cate">
 										<input type="hidden" name="product-cate" value="0" id="product-cate">
-										<a href="#" class="link-control">All Category</a>
+										<a href="#" class="link-control">Semua Kategori</a>
 										<ul class="list-cate">
 											<li class="level-0">All Category</li>
 											<li class="level-1">-Electronics</li>
@@ -76,7 +76,7 @@
 									<i class="fa fa-heart" aria-hidden="true"></i>
 									<div class="left-info">
 										<span class="index">0 item</span>
-										<span class="title">Wishlist</span>
+										<span class="title">Keinginan</span>
 									</div>
 								</a>
 							</div>
@@ -84,8 +84,8 @@
 								<a href="#" class="link-direction">
 									<i class="fa fa-shopping-basket" aria-hidden="true"></i>
 									<div class="left-info">
-										<span class="index">4 items</span>
-										<span class="title">CART</span>
+										<span class="index">4 barang</span>
+										<span class="title">Keranjang</span>
 									</div>
 								</a>
 							</div>
@@ -105,11 +105,11 @@
 					<div class="header-nav-section">
 						<div class="container">
 							<ul class="nav menu-nav clone-main-menu" id="mercado_haead_menu" data-menuname="Sale Info" >
-								<li class="menu-item"><a href="#" class="link-term">Weekly Featured</a><span class="nav-label hot-label">hot</span></li>
-								<li class="menu-item"><a href="#" class="link-term">Hot Sale items</a><span class="nav-label hot-label">hot</span></li>
-								<li class="menu-item"><a href="#" class="link-term">Top new items</a><span class="nav-label hot-label">hot</span></li>
-								<li class="menu-item"><a href="#" class="link-term">Top Selling</a><span class="nav-label hot-label">hot</span></li>
-								<li class="menu-item"><a href="#" class="link-term">Top rated items</a><span class="nav-label hot-label">hot</span></li>
+								<li class="menu-item"><a href="#" class="link-term">Promo Minggu Ini</a><span class="nav-label hot-label">hot</span></li>
+								<li class="menu-item"><a href="#" class="link-term">Barang Paling Dicari</a><span class="nav-label hot-label">hot</span></li>
+								<li class="menu-item"><a href="#" class="link-term">Barang Baru</a><span class="nav-label hot-label">hot</span></li>
+								<li class="menu-item"><a href="#" class="link-term">Paling Banyak Terjual</a><span class="nav-label hot-label">hot</span></li>
+								<li class="menu-item"><a href="#" class="link-term">Paling Banyak Diulas</a><span class="nav-label hot-label">hot</span></li>
 							</ul>
 						</div>
 					</div>
@@ -121,16 +121,16 @@
 									<a href="/" class="link-term mercado-item-title"><i class="fa fa-home" aria-hidden="true"></i></a>
 								</li>
 								<li class="menu-item">
-									<a href="/about" class="link-term mercado-item-title">About Us</a>
+									<a href="/about" class="link-term mercado-item-title">Tentang</a>
 								</li>
 								<li class="menu-item">
-									<a href="/shop" class="link-term mercado-item-title">Shop</a>
+									<a href="/shop" class="link-term mercado-item-title">Belanja</a>
 								</li>
 								<li class="menu-item">
-									<a href="/cart" class="link-term mercado-item-title">Cart</a>
+									<a href="/cart" class="link-term mercado-item-title">Keranjang</a>
 								</li>
 								<li class="menu-item">
-									<a href="/contact" class="link-term mercado-item-title">Contact Us</a>
+									<a href="/contact" class="link-term mercado-item-title">Hubungi Kami</a>
 								</li>								
 							</ul>
 						</div>
