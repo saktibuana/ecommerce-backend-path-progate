@@ -1,8 +1,6 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\UserController;
-
 
 /*
 |--------------------------------------------------------------------------
@@ -16,18 +14,52 @@ use App\Http\Controllers\UserController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('pages.welcome');
 });
 
-// Route::get('dashboard', function () {
-//     return view('dashboard');
-// });
-
-// Dashboard
 Route::get('/dashboard', function () {
-    $page = ['site' => 'web'];
-    return view('pages.dash', ['type_menu' => 'dashboard', 'page' => $page ]);
-    // return view('pages.default', ['type_menu' => 'dashboard']);
-
+    return view('index');
 });
-// Route::get('/profile/{id}', [UserController::class, 'show']);
+
+Route::get('/toc', function () {
+    return view('terms-conditions');
+});
+
+
+Route::get('/privacy', function () {
+    return view('privacy-policy');
+});
+
+
+Route::get('/register', function () {
+    return view('register');
+});
+
+
+Route::get('/shop', function () {
+    return view('pages.shop');
+});
+
+Route::get('/login', function () {
+    return view('login');
+});
+
+Route::get('/detail', function () {
+    return view('detail');
+});
+
+Route::get('/contact', function () {
+    return view('contact-us');
+});
+
+Route::get('/checkout', function () {
+    return view('checkout');
+});
+
+Route::get('/cart', function () {
+    return view('pages.cart');
+});
+
+Route::get('/about', function () {
+    return view('pages.about');
+});
