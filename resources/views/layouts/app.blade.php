@@ -3,15 +3,11 @@
 <head>
     @include ('components.head')
 </head>
-<body class="inner-page about-us ">
+
+<body class="inner-page detail ">
 
 	<!-- mobile menu -->
-    <div class="mercado-clone-wrap">
-        <div class="mercado-panels-actions-wrap">
-            <a class="mercado-close-btn mercado-close-panels" href="#">x</a>
-        </div>
-        <div class="mercado-panels"></div>
-    </div>
+    @include ('components.section-mobile-menu')
 
 	<!--header-->
     @include ('components.section-header')
@@ -21,9 +17,9 @@
 	<!--main area-->
 
 	<!--footer area-->
-    @include ('components.section-footer');
+    @include ('components.section-footer')
 
-	@include ('components.scripts-footer');
+	@include ('components.scripts-footer')
 	<!--footer area-->
 </body>
 </html>

@@ -44,7 +44,7 @@ Route::get('/login', function () {
     return view('pages.login');
 });
 
-Route::get('/product/{id}', function ($id) {
+Route::get('/product/{id}', function ($id=null) {
     return view('pages.product-detail');
 });
 

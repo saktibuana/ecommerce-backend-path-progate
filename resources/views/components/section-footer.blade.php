@@ -139,7 +139,7 @@
 								<h3 class="item-header">Metode Pembayaran Aman:</h3>
 								<div class="item-content">
 									<div class="wrap-list-item wrap-gallery">
-										<img src="assets/images/payment.png" style="max-width: 260px;">
+										<img src="{{ asset('assets/images/payment.png')  }}" style="max-width: 260px;">
 									</div>
 								</div>
 							</div>
@@ -168,8 +168,8 @@
 								<div class="item-content">
 									<div class="wrap-list-item apps-list">
 										<ul>
-											<li><a href="#" class="link-to-item" title="our application on apple store"><figure><img src="assets/images/brands/apple-store.png" alt="apple store" width="128" height="36"></figure></a></li>
-											<li><a href="#" class="link-to-item" title="our application on google play store"><figure><img src="assets/images/brands/google-play-store.png" alt="google play store" width="128" height="36"></figure></a></li>
+											<li><a href="#" class="link-to-item" title="our application on apple store"><figure><img src="{{ URL::asset('assets/images/brands/apple-store.png') }}" alt="apple store" width="128" height="36"></figure></a></li>
+											<li><a href="#" class="link-to-item" title="our application on google play store"><figure><img src="{{ URL::asset('assets/images/brands/google-play-store.png') }}" alt="google play store" width="128" height="36"></figure></a></li>
 										</ul>
 									</div>
 								</div>
