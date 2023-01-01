@@ -16,7 +16,7 @@
 							<i class="fa fa-recycle" aria-hidden="true"></i>
 							<div class="wrap-left-info">
 								<h4 class="fc-name">Garansi</h4>
-								<p class="fc-desc">30 Hari Uang Kembai</p>
+								<p class="fc-desc">30 Hari Uang Kembali</p>
 							</div>
 
 						</li>

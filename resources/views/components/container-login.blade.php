@@ -13,22 +13,22 @@
                     <div class="login-form form-item form-stl">
                         <form name="frm-login">
                             <fieldset class="wrap-title">
-                                <h3 class="form-title">Log in to your account</h3>										
+                                <h3 class="form-title">Login ke Akun Anda</h3>										
                             </fieldset>
                             <fieldset class="wrap-input">
-                                <label for="frm-login-uname">Email Address:</label>
-                                <input type="text" id="frm-login-uname" name="email" placeholder="Type your email address">
+                                <label for="frm-login-uname">Alamat E-mail:</label>
+                                <input type="text" id="frm-login-uname" name="email" placeholder="Ketikkan alamat e-mail Anda">
                             </fieldset>
                             <fieldset class="wrap-input">
-                                <label for="frm-login-pass">Password:</label>
+                                <label for="frm-login-pass">Kata Sandi:</label>
                                 <input type="password" id="frm-login-pass" name="pass" placeholder="************">
                             </fieldset>
                             
                             <fieldset class="wrap-input">
                                 <label class="remember-field">
-                                    <input class="frm-input " name="rememberme" id="rememberme" value="forever" type="checkbox"><span>Remember me</span>
+                                    <input class="frm-input " name="rememberme" id="rememberme" value="forever" type="checkbox"><span>Ingat saya</span>
                                 </label>
-                                <a class="link-function left-position" href="#" title="Forgotten password?">Forgotten password?</a>
+                                <a class="link-function left-position" href="#" title="Forgotten password?">Lupa kata sandi?</a>
                             </fieldset>
                             <input type="submit" class="btn btn-submit" value="Login" name="submit">
                         </form>

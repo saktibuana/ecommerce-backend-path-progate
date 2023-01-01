@@ -3,7 +3,7 @@
     <div class="wrap-breadcrumb">
         <ul>
             <li class="item-link"><a href="#" class="link">Beranda</a></li>
-            <li class="item-link"><span>login</span></li>
+            <li class="item-link"><span>Keranjang</span></li>
         </ul>
     </div>
 
@@ -71,9 +71,9 @@
             </div>
             <div class="checkout-info">
                 <label class="checkbox-field">
-                    <input class="frm-input " name="have-code" id="have-code" value="" type="checkbox"><span>I have promo code</span>
+                    <input class="frm-input " name="have-code" id="have-code" value="" type="checkbox"><span>Kode promo</span>
                 </label>
-                <a class="btn btn-checkout" href="/checkout">Check out</a>
+                <a class="btn btn-checkout" href="/checkout">Selesaikan Pembelian Sekarang</a>
                 <a class="link-to-shop" href="/shop">Lanjutkan Belanja<i class="fa fa-arrow-circle-right" aria-hidden="true"></i></a>
             </div>
             <div class="update-clear">
@@ -93,7 +93,7 @@
                                 <figure><img src="assets/images/products/digital_04.jpg" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
                             </a>
                             <div class="group-flash">
-                                <span class="flash-item new-label">new</span>
+                                <span class="flash-item new-label">baru</span>
                             </div>
                             <div class="wrap-btn">
                                 <a href="#" class="function-link">quick view</a>
@@ -111,7 +111,7 @@
                                 <figure><img src="assets/images/products/digital_17.jpg" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
                             </a>
                             <div class="group-flash">
-                                <span class="flash-item sale-label">sale</span>
+                                <span class="flash-item sale-label">promo</span>
                             </div>
                             <div class="wrap-btn">
                                 <a href="#" class="function-link">quick view</a>
@@ -129,8 +129,8 @@
                                 <figure><img src="assets/images/products/digital_15.jpg" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
                             </a>
                             <div class="group-flash">
-                                <span class="flash-item new-label">new</span>
-                                <span class="flash-item sale-label">sale</span>
+                                <span class="flash-item new-label">baru</span>
+                                <span class="flash-item sale-label">promo</span>
                             </div>
                             <div class="wrap-btn">
                                 <a href="#" class="function-link">quick view</a>
@@ -148,7 +148,7 @@
                                 <figure><img src="assets/images/products/digital_01.jpg" width="214" height="214" alt="T-Shirt Raw Hem Organic Boro Constrast Denim"></figure>
                             </a>
                             <div class="group-flash">
-                                <span class="flash-item bestseller-label">Bestseller</span>
+                                <span class="flash-item bestseller-label">terbaik</span>
                             </div>
                             <div class="wrap-btn">
                                 <a href="#" class="function-link">quick view</a>

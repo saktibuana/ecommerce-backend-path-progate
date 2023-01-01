@@ -1589,7 +1589,7 @@ li.menu-item .nav-label.sale-label::before{
     width: 100%;
     /*float: left;*/
     text-align: left;
-    background-color: #ff2832;
+    background-color: #777bb9;
     font-size: 14px;
     text-transform: uppercase;
     font-weight: 700;
@@ -5594,7 +5594,7 @@ table.shop_attributes tbody{
 }
 .wrap-footer-item .wrap-hotline-footer .phone-number,
 .topbar-menu-area .topbar-menu .label-before.fa-mobile{
-    color: #ff2832 !important;
+    color: #777bb9 !important;
 }
 .fill-color .header-nav-section ul li a{
     color: #ffffff;

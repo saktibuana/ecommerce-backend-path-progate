@@ -8,7 +8,7 @@
 						<div class="slide-info slide-1">
 							<h2 class="f-title">Kid Smart <b>Watches</b></h2>
 							<span class="subtitle">Compra todos tus productos Smart por internet.</span>
-							<p class="sale-info">Only price: <span class="price">IDR 599000,-</span></p>
+							<p class="sale-info">Only price: <span class="price">IDR 59.99</span></p>
 							<a href="#" class="btn-link">Beli Sekarang</a>
 						</div>
 					</div>
@@ -50,8 +50,8 @@
 
 			<!--On Sale-->
 			<div class="wrap-show-advance-info-box style-1 has-countdown">
-				<h3 class="title-box">Sedang Promo</h3>
-				<div class="wrap-countdown mercado-countdown" data-expire="2023/12/12 12:34:56"></div>
+				<h3 class="title-box">Sedang Dijual</h3>
+				<div class="wrap-countdown mercado-countdown" data-expire="2020/12/12 12:34:56"></div>
 				<div class="wrap-products slide-carousel owl-carousel style-nav-1 equal-container " data-items="5" data-loop="false" data-nav="true" data-dots="false" data-responsive='{"0":{"items":"1"},"480":{"items":"2"},"768":{"items":"3"},"992":{"items":"4"},"1200":{"items":"5"}}'>
 
 					<div class="product product-style-2 equal-elem ">
@@ -369,7 +369,7 @@
 				<h3 class="title-box">Kategori Produk</h3>
 				<div class="wrap-top-banner">
 					<a href="#" class="link-banner banner-effect-2">
-						<figure><img src="assets/images/fashion-accesories-banner.png" width="1170" height="240" alt=""></figure>
+						<figure><img src="assets/images/fashion-accesories-banner.jpg" width="1170" height="240" alt=""></figure>
 					</a>
 				</div>
 				<div class="wrap-products">

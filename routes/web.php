@@ -35,6 +35,10 @@ Route::get('/register', function () {
     return view('pages.register');
 });
 
+Route::get('/wishlist', function () {
+    return view('pages.wishlist');
+});
+
 
 Route::get('/shop', function () {
     return view('pages.shop');
@@ -62,4 +66,33 @@ Route::get('/cart', function () {
 
 Route::get('/about', function () {
     return view('pages.about');
+});
+
+
+
+//functions
+// Route::get('/search', function () {
+//     return $_REQUEST['q'];
+// });
+// Route::get('/search/{s}', function ($s) {
+    
+//     return $_REQUEST['q'];
+// });
+
+Route:: get('/dummy', function(){
+    $label = \App\Models\ProductLabel::first();
+    $product = \App\Models\Product::first();
+
+    // manual way to add new 
+    $product->labels()->attach($label);
+
+    //manual way to update
+    $product->labels()->detach(2);
+    $product->labels()->attach([3,2]);
+
+    //better way is to sync
+    $product->labels()->sync([4,6]);
+    $product->labels()->sync([2,6]);
+
+
 });

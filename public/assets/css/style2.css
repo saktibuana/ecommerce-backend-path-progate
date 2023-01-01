@@ -1,0 +1,29 @@
+.dropdown-result {
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    z-index: 1000;
+ }
+
+ .dropdown-result .result {
+    /* z-index: 1000; */
+    width: 100%;
+    padding: 4px;
+    background-color: #f5f7fa;
+    color: #000;
+    
+    border-left: 1px solid #e6e9ed;
+    border-right: 1px solid #e6e9ed;
+    cursor: pointer;
+
+}
+
+.dropdown-result .result:last-child {
+    border-bottom: 1px solid #e6e9ed;
+}
+
+.dropdown-result .result:hover,
+.dropdown-result .result .selected {
+    background-color: #5193e5;
+    color:#fff;
+}
